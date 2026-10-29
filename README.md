@@ -39,6 +39,3 @@ This project focuses on manual testing of the Reddit web application. The goal i
 - Web Browser
 - GitHub
 - Microsoft Excel / Markdown for test documentation
-- Web Browser
-- GitHub
-- Microsoft Excel / Markdown for test documentation
